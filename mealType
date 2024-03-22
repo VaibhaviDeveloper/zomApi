@@ -1,0 +1,47 @@
+// 20240322223911
+// http://localhost:9110/mealType
+
+[
+  {
+    "_id": "65e40b4bd1d5d4931a943ec0",
+    "mealtype_id": 3,
+    "mealtype": "Dinner",
+    "content": "Start your day with exclusive breakfast options",
+    "meal_image": "https://i.ibb.co/XjzPqYv/dinner.jpg"
+  },
+  {
+    "_id": "65e40b4bd1d5d4931a943ec1",
+    "mealtype_id": 4,
+    "mealtype": "Snacks",
+    "content": "Start your day with exclusive breakfast options",
+    "meal_image": "https://i.ibb.co/wchCHfb/snacks.jpg"
+  },
+  {
+    "_id": "65e40b4bd1d5d4931a943ebf",
+    "mealtype_id": 2,
+    "mealtype": "Lunch",
+    "content": "Start your day with exclusive breakfast options",
+    "meal_image": "https://i.ibb.co/8rPxkWP/lunch.jpg"
+  },
+  {
+    "_id": "65e40b4bd1d5d4931a943ebe",
+    "mealtype_id": 1,
+    "mealtype": "Breakfast",
+    "content": "Start your day with exclusive breakfast options",
+    "meal_image": "https://i.ibb.co/FVhSTWK/breakfast.jpg"
+  },
+  {
+    "_id": "65e40b4bd1d5d4931a943ec3",
+    "mealtype_id": 6,
+    "mealtype": "NightLife",
+    "content": "Start your day with exclusive breakfast options",
+    "meal_image": "https://i.ibb.co/q1fC2jW/nightlife.jpg"
+  },
+  {
+    "_id": "65e40b4bd1d5d4931a943ec2",
+    "mealtype_id": 5,
+    "mealtype": "Drinks",
+    "content": "Start your day with exclusive breakfast options",
+    "meal_image": "https://i.ibb.co/YR0S6fV/drinks.jpg"
+  }
+]
